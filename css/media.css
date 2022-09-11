@@ -1,0 +1,418 @@
+@media (max-width: 1440px) {
+    .container{
+        width: 90%;
+    }
+}
+
+
+@media (max-width: 1200px) {
+
+}
+
+
+@media (max-width: 1024px)  {
+    .btn {
+        margin-left: 321px;
+    }
+    .check-img {
+        margin-left: 197px;
+    }
+    .slider {
+        margin-left: 67px;
+    }
+    .nashli-img img {
+        margin-left: 184px;
+        margin-top: 18px;
+    }
+    .nashli-block {
+        flex-direction: column;
+    }
+    .btb {
+        margin-left: 297px;
+    }
+    .h2 {
+        margin-left: 547px;
+    }
+}
+
+
+
+
+@media (max-width: 992px) {
+    .header-p h1 {
+        margin-left: 44px;
+    }
+    .header-nav h1 {
+        font-size: 14px;
+    }
+    .header-nav p {
+        font-size: 16px;
+    }
+    .hero-title h5 {
+    font-size: 13px;
+}
+    .hero-title h1 {
+        font-size: 49px;
+    }
+    .hero {
+        display: flex;
+        flex-direction: column;
+    }
+
+}
+
+
+@media (max-width: 768px) {
+    .hero div img{
+        width: 600px;
+        height: 500px;
+    }
+    .gaz {
+        flex-direction: column;
+    }
+    .img {
+        flex-direction: column;
+    }
+    .check {
+        flex-direction: column;
+    }
+    .check-img {
+        margin-left: 76px;
+    }
+    .btn {
+        margin-left: 206px;
+    }
+    .slider {
+        margin-left: 1px;
+    }
+    .slider {
+        width: 628px;
+        height: 243px;}
+    .otvet-title {
+        font-weight: 400;
+        font-size: 26px;}
+    .otvet {
+        margin-left: 120px;
+    }
+    .nashli-title {
+        margin-left: 129px;
+    }
+    .nasli-btn button {
+        width: 363px;
+        height: 41px;
+        margin-left: 132px;
+    }
+    .nashli-btn button {
+        width: 367px;
+        height: 44px;
+        margin-left: 133px;
+    }
+    .nashel-btn button {
+        width: 376px;
+        height: 85px;
+        margin-left: 133px;
+    }
+    .nashli-img img {
+        margin-left: 136px;
+    }
+    .btb {
+        margin-left: 178px;
+    }
+    .footer {
+        flex-direction: column;
+    }
+    .footer-title {
+        width: 564px;
+        height: 361px;
+        margin-left: 22px;
+    }
+    .qwer {
+        margin-left: 24px;
+    }
+    .h2 {
+        margin-left: 338px;
+    }
+
+}
+
+
+@media (max-width: 576px) {
+    .check-img {
+        margin-left: -11px;}
+    .btn {
+        margin-left: 128px;
+    }
+    .slider-title2 div h1 {
+        font-size: 16px;
+    }
+    .slider-title2 div h2 {
+        font-size: 16px;
+        padding-bottom: 10px;
+    }
+    .slider-title2 div p {
+        font-size: 11px;
+    }
+    .slider-title2 img {
+        width: 150px;
+    }
+    .slider {
+        width: 465px;
+        height: 194px;
+    }
+    .otvet h1 {
+        font-size: 13px;
+    }
+    .otvet p {
+        font-size: 12px;}
+    .otvet {
+        margin-left: 30px;
+    }
+    .nashli-title {
+        font-weight: 400;
+        font-size: 27px;}
+    .nashli-title {
+        margin-left: 39px;
+    }
+    .nasli-btn button {
+        margin-left: 51px;
+    }
+    .nashli-btn button {
+        margin-left: 50px;
+    }
+    .nashel-btn button {
+        height: 71px;
+        margin-left: 49px;
+    }
+    .btnnnn {
+        width: 187px;
+        height: 43px;
+        margin-left: 147px;
+    }
+    .nashli-img img {
+        margin-left: 45px;
+    }
+    .h1 {
+        font-size: 22px;}
+    .btb {
+        margin-left: 95px;
+    }
+    .qwer {
+        margin-left: -43px;
+    }
+    .h2 {
+        margin-left: 245px;
+    }
+    .h2 {
+        font-size: 10px;
+    }
+    .header-p h1 {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 18px;
+        color: #2194FF;
+        margin-left: 15px;
+    }
+
+}
+
+
+@media (max-width: 451px) {
+    .header-p img {
+        width: 130px;
+    }
+    .hero-title h1 {
+        font-size: 33px;
+    }
+    .hero-title button {
+        width: 346px;
+        height: 77px;}
+    .hero div img {
+        width: 449px;
+        height: 343px;
+    }
+    .title {
+        font-size: 19px;}
+    .gaz-title2 img {
+        width: 300px;
+    }
+    .work-block h1 {
+        font-size: 17px;}
+    .work-block p {
+        font-size: 11px;}
+    .work-block p {
+        font-size: 11px;
+    }
+    .work-block h1 {
+        font-size: 12px;
+    }
+    .work-block p {
+        font-size: 10px;
+    }
+    .img img {
+        width: 400px;
+    }
+    .img div h1 {
+        font-size: 24px;
+    }
+    .img div button {
+        width: 353px;}
+    .check-title {
+        font-size: 22px;}
+    .check-img img {
+        width: 450px;
+    }
+    .btn {
+        width: 230px;
+        height: 57px;}
+    .btn {
+        margin-left: 87px;
+    }
+    .slider-title {
+        font-size: 26px;
+    }
+    .slider-title2 div p {
+        font-size: 7px;
+    }
+    .slider-title2 div h2 {
+        font-size: 12px;}
+    .slider {
+        width: 363px;
+        height: 179px;
+    }
+    .slider-title2 img {
+        width: 150px;
+        border-radius: 20%;
+    }
+    .otvet-title {
+        font-size: 18px;
+    }
+    .nashli-title {
+        margin-left: 32px;
+    }
+    .nasli-btn button {
+        margin-left: 24px;
+    }
+    .nashli-btn button {
+        margin-left: 24px;
+    }
+    .nashel-btn button {
+        height: 66px;
+        margin-left: 21px;
+    }
+    .nashli-img img {
+        margin-left: -5px;
+    }
+    .h1 {
+        font-size: 19px;
+    }
+    .btb {
+        margin-left: 35px;
+    }
+    .btb {
+        width: 275px;
+        height: 79px;}
+    .footer-title h1 {
+        font-size: 34px;}
+    .footer-title {
+        width: 379px;}
+    .qwer {
+        font-size: 10px;}
+    .h2 {
+        font-size: 8px;
+    }
+    .h2 {
+        margin-left: 173px;
+    }
+
+
+
+
+}
+
+
+@media (max-width: 400px) {
+    .hero-title h1 {
+        font-size: 32px;
+    }
+    .hero-title button {
+        width: 267px;
+        height: 62px;
+    }
+    .work {
+        flex-direction: column;
+    }
+    .work2 {
+        flex-direction: column;
+    }
+    .work3 {
+        flex-direction: column;
+    }
+    .img div button {
+        width: 311px;
+    }
+    .check-img img {
+        width: 371px;
+    }
+    .btn {
+        width: 184px;
+        height: 48px;
+    }
+    .knopka div img {
+        width: 30px;
+    }
+    .slider {
+        width: 330px;
+    }
+    .slider-title2 img {
+        width: 112px;
+    }
+    .otvet-title {
+        font-size: 14px;
+    }
+    .otvet h1 {
+        font-size: 11px;
+    }
+    .nashli-title {
+        margin-left: 8px;
+    }
+    .nasli-btn button {
+        width: 306px;}
+    .nashli-btn button {
+        width: 309px;}
+    .nashel-btn button {
+        width: 316px;}
+    .btnnnn {
+        margin-left: 90px;
+    }
+    .nashli-img img {
+        width: 300px;
+    }
+    .h1 {
+        font-size: 14px;
+    }
+    .footer-title h1 {
+        font-size: 29px;
+    }
+    .footer-title p {
+        font-size: 16px;}
+
+
+
+
+}
+
+
+@media (max-width: 380px) {
+
+}
+
+
+@media (max-width: 375px) {
+
+}
+
+
+@media (max-width: 320px) {
+
+}
+
